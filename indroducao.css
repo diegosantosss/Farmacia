@@ -1,0 +1,52 @@
+body{
+background-color: grey; /
+}
+
+h1{
+    color: aqua; /*Cor das letras do h1*/
+    font-family: Arial; /* fonte que utilizar*/
+    font-size: 40px; /*Tamanho*/
+    text-transform: capitalize; /*inicio maiusculo da palavra*/
+    text-align: justify;
+    text-decoration:overline ;
+
+}  
+
+h2 {
+
+    font-size: 40px; 
+    color:blue;
+    font-style: italic; /*fonte da letra*/
+    text-transform: lowercase; /*tudo em minusculo*/
+    text-align: center;
+    text-decoration: line-through;
+    font-weight: normal;
+} 
+
+h3 {
+font-size: 40px;
+color:blue;
+font-style: oblique;
+font-family: Arial;
+text-transform: uppercase; /*vai ficar tudo em mausculo*/      
+text-align: right;
+text-decoration: underline;
+background-color: yellow;
+
+}
+
+a {
+
+    text-decoration:none;
+    font-variant: normal;
+}
+
+p {
+color: black   ;
+ text-indent: 58px;
+font-size: 28px;
+text-align: left;
+font-variant: small-caps;
+font-weight: bold;
+
+}
